@@ -5,7 +5,7 @@ import { Login } from "../pages/Login";
 export const routes: Routes[] = [
   {
     exact: true,
-    path: "/",
+    path: "/React_Certification",
     component: Login,
   },
   {

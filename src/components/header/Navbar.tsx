@@ -46,7 +46,7 @@ export const Navbar = () => {
           }}
           onClick={() => {
             sessionStorage.removeItem("token");
-            navigate("/");
+            navigate("/React_Certification");
           }}
         ></Box>
         <Typography
